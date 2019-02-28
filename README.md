@@ -13,8 +13,8 @@ useRef()
 - [Instalation](#installation)
 
 ## Sample Screenshots
-<img src="./public/assets/readme-assets/todos-add.png" alt="TodosList" />
-<img src="./public/assets/readme-assets/todos-complete.png" alt="TodosList" />
+<img src="https://github.com/jefferyvincent/TodosList/blob/master/public/assets/todos-add.png" alt="TodosList" />
+<img src="https://github.com/jefferyvincent/TodosList/blob/master/public/assets/todo-complete.png" alt="TodosList" />
 
 ## Installation
 To run this project git clone it and run `npm install`. Next run `yarn start`
