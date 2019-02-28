@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./public/assets/readme-assets/todos-readme-header.png" /></h1>
+<h1 align="center"><img src="https://github.com/jefferyvincent/TodosList/blob/master/public/assets/todos-readme-header.png" /></h1>
 
 # What is TodosList?
 A simple classless todo list created using the lastest (2019) React.js hooks:
