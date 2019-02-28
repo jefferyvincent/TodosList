@@ -10,7 +10,7 @@ useRef()
 
 ## Table of Contents
 - [Sample Screenshots](#sample-screenshots)
-- [Instalation](#installation)
+- [installation](#installation)
 
 ## Sample Screenshots
 <img src="https://github.com/jefferyvincent/TodosList/blob/master/public/assets/todos-add.png" alt="TodosList" />
